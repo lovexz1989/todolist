@@ -4,4 +4,9 @@ dist
 .sass-cache
 bower_components
 .idea
+www
+npm-debug.log
+platforms/
+plugins/
+
 
